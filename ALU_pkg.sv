@@ -23,4 +23,3 @@ import uvm_pkg::*;
 endpackage
 
 
-`include "interface.sv"
